@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/yevchyk/gif-easy-cropper.git"
   },
   "keywords": [],
-  "author": "yevchik",
+  "author": "yevchyk",
   "license": "ISC"
 }
