@@ -1,0 +1,21 @@
+{
+  "name": "gif-easy-cropper",
+  "version": "1.0.0",
+  "description": "gif-easy-cropper",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "yevchik",
+  "license": "ISC"
+}
